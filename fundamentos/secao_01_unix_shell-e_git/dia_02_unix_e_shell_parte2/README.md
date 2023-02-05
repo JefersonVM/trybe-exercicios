@@ -1,0 +1,1 @@
+## Testando ConhecimentosO primeiro passo é criar uma pasta ou clonar um repositório já existente, logo após iniciar o git dentro dessa própria pasta, depois criar algo dentro dessa pasta um arquivME por exemplo, criamos uma outra branch e navegamos até ela, depois disso podemos trabalhar tranquilamente na nossa nova branch.
